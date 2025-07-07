@@ -1,3 +1,5 @@
+> Esta documentación corresponde a un proyecto de arquitectura monolítica desacoplada, con frontend en React y backend en Java con Spring Boot, conectado a una base de datos MySQL.
+
 # 🏢 Coworking App
 
 Aplicación web para gestión de espacios de coworking. Permite a los usuarios registrarse, explorar oficinas disponibles, hacer reservas, y dejar favoritos. Admins pueden gestionar productos, categorías y servicios.
@@ -109,9 +111,9 @@ npm run dev
 
 ---
 
-## 🗂️ Diagrama de Entidades (MER)
+## 🗂️ Diagrama de Entidades (ER)
 
-![MER](./Untitled.png)
+![ER](./docs/entities.png)
 
 > Creado con [https://dbdiagram.io](https://dbdiagram.io)
 
