@@ -1,4 +1,4 @@
-> Esta documentación corresponde a un proyecto de arquitectura monolítica desacoplada, con frontend en React y backend en Java con Spring Boot, conectado a una base de datos MySQL.
+> Este repositorio contiene un ejemplo de documentación de un proyecto de arquitectura monolítica desacoplada, con frontend en React y backend en Java con Spring Boot, conectado a una base de datos MySQL.
 
 # 🏢 Coworking App
 
